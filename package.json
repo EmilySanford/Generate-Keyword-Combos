@@ -1,0 +1,20 @@
+{
+  "name": "combineKeywords",
+  "version": "1.0.0",
+  "description": "A simple app to combine keywords from up to three categories",
+  "main": "combineApp.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.4.0",
+    "inquirer": "^0.11.0",
+    "lodash": "^3.10.1",
+    "mocha": "^2.3.3"
+  }
+}
